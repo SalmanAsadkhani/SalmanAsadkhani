@@ -26,7 +26,7 @@
 ## 📫 ارتباط با من
 
 - 💬 تلگرام: [@itsalman](https://t.me/itsalman)
-- 📧 ایمیل: [Salmam.asdkhani@gmail.com](salman.asdkhani@gmail.com)
+- 📧 ایمیل: [Salmam.asdkhani@gmail.com](mailto:salman.asdkhani@gmail.com)
 
 
 ---
