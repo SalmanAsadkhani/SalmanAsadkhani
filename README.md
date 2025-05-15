@@ -1,6 +1,7 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=به&پروفایل&من&خوش&آمدید&fontSize=40&fontAlign=center&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=%D8%A8%D9%87%20%D9%BE%D8%B1%D9%88%D9%81%D8%A7%DB%8C%D9%84%20%D9%85%D9%86%20%D8%AE%D9%88%D8%B4%20%D8%A2%D9%85%D8%AF%DB%8C%D8%AF&fontSize=40&fontAlign=center&fontColor=ffffff)
+
 
 # 👋 سلام! من سلمان اسدخانی هستم
 
