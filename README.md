@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20profile!&fontSize=40&fontAlign=center&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=  به پروفایل من خوش آمدید &fontSize=40&fontAlign=center&fontColor=ffffff)
 
 # 👋 سلام! من سلمان اسدخانی هستم
 
@@ -31,5 +31,5 @@
 
 ---
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient)
+
 
