@@ -1,6 +1,4 @@
 
-Of course, here is the English translation of your profile:
-
 👋 Hello! I'm Salman Asadkhani
 I'm at the beginning of my journey in learning programming and web development,
 and I'm continuously working on improving my skills.
@@ -20,9 +18,10 @@ and my goal is to work as a programmer in the future.
 
 ---
 📫 Contact Me
-💬 Telegram: @itsalman
 
-📧 Email: salman.asdkhani@gmail.com
+💬 Telegram: [@itsalman](https://t.me/itsalman)
+
+📧 Email: (mailto:salman.asdkhani@gmail.com)
 
 ---
 
